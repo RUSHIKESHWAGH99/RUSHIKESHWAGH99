@@ -69,6 +69,8 @@ I'm a **Product Analyst** with **4+ years** of full-time experience in the analy
 | **[🔮 Telco Churn Prediction](https://github.com/RUSHIKESHWAGH99/Telco-Customer-Churn-Prediction)** | ML pipeline with Logistic Regression & Random Forest — top churn drivers & retention actions | `scikit-learn` `pandas` `seaborn` |
 | **[🛒 E-Commerce Analysis](https://github.com/RUSHIKESHWAGH99/E-Commerce-Sales-Analysis)** | Customer & Revenue Intelligence — segmentation, cohort analysis, revenue drivers | `pandas` `matplotlib` `HTML` |
 | **[🏥 Insurance Cost Prediction](https://github.com/RUSHIKESHWAGH99/Medical-Insurance-Cost-Prediction)** | Regression models predicting medical costs — smokers pay 3.8x more, obesity + smoking = 5x | `scikit-learn` `pandas` `seaborn` |
+| **[💳 Credit Card Fraud Detection](https://github.com/RUSHIKESHWAGH99/Credit-Card-Fraud-Detection)** | Fraud detection on imbalanced data (0.17% fraud) using SMOTE + ML — recall-focused evaluation | `scikit-learn` `imbalanced-learn` `SMOTE` |
+| **[🎓 Student Performance Prediction](https://github.com/RUSHIKESHWAGH99/Student-Performance-Prediction)** | Predicting student pass/fail from academic, social & demographic features — early warning system | `scikit-learn` `pandas` `seaborn` |
 
 ---
 
@@ -80,4 +82,4 @@ I'm a **Product Analyst** with **4+ years** of full-time experience in the analy
 
 *"The goal is to turn data into information, and information into insight."* — Carly Fiorina
 
-**Let's connect!** &nbsp; [LinkedIn](https://www.linkedin.com/in/rushikesh-wagh-08031999) · [Portfolio](https://portfolio-three-gilt-nasms1nt6q.vercel.app) · [GitHub](https://github.com/RUSHIKESHWAGH99)
+**Let's connect!** &nbsp; [LinkedIn](https://www.linkedin.com/in/rushikesh-wagh-08031999) · [Portfolio](https://portfolio-three-gilt-nasms1nt6q.vercel.app) · [GitHub](https://github.com/RUSHIKESHWAGH99) · [Email](mailto:rushikeshwagh43@gmail.com)
