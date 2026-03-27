@@ -68,6 +68,7 @@ I'm a **Product Analyst** with **4+ years** of full-time experience in the analy
 | **[📊 Sales & Revenue Dashboard](https://github.com/RUSHIKESHWAGH99/Sales-Revenue-Dashboard)** | Interactive Streamlit dashboard — KPI cards, trend analysis, discount-vs-profit insights | `Streamlit` `Plotly` `pandas` |
 | **[🔮 Telco Churn Prediction](https://github.com/RUSHIKESHWAGH99/Telco-Customer-Churn-Prediction)** | ML pipeline with Logistic Regression & Random Forest — top churn drivers & retention actions | `scikit-learn` `pandas` `seaborn` |
 | **[🛒 E-Commerce Analysis](https://github.com/RUSHIKESHWAGH99/E-Commerce-Sales-Analysis)** | Customer & Revenue Intelligence — segmentation, cohort analysis, revenue drivers | `pandas` `matplotlib` `HTML` |
+| **[🏥 Insurance Cost Prediction](https://github.com/RUSHIKESHWAGH99/Medical-Insurance-Cost-Prediction)** | Regression models predicting medical costs — smokers pay 3.8x more, obesity + smoking = 5x | `scikit-learn` `pandas` `seaborn` |
 
 ---
 
