@@ -1,11 +1,11 @@
 # Hi there, I'm Rushikesh Wagh! 👋
 
-**Rushikesh Wagh** — Product Analyst & data portfolio (Bengaluru, India). **Portfolio site:** [portfolio-three-gilt-nasms1nt6q.vercel.app](https://portfolio-three-gilt-nasms1nt6q.vercel.app) · **GitHub:** [RUSHIKESHWAGH99](https://github.com/RUSHIKESHWAGH99) · **LinkedIn:** [rushikesh-wagh-08031999](https://www.linkedin.com/in/rushikesh-wagh-08031999)
+**Rushikesh Wagh** — Product Analyst & data portfolio (Bengaluru, India). **Portfolio site:** [rushikeshwagh.vercel.app](https://rushikeshwagh.vercel.app) · **GitHub:** [RUSHIKESHWAGH99](https://github.com/RUSHIKESHWAGH99) · **LinkedIn:** [rushikesh-wagh-08031999](https://www.linkedin.com/in/rushikesh-wagh-08031999)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=6C63FF&vCenter=true&width=600&lines=Product+Analyst+%40+ALLEN+Digital;4%2B+Years+in+Analytics+%26+Product+Strategy;IIT+(ISM)+Dhanbad+%E2%80%A2+Bengaluru)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikesh-wagh-08031999)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-three-gilt-nasms1nt6q.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rushikeshwagh.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RUSHIKESHWAGH99)
 
 ---
@@ -16,7 +16,7 @@ I'm a **Product Analyst** with **4+ years** of full-time experience in the analy
 
 - 🏢 **Current Role:** Product Analytics at **ALLEN Digital**, Bengaluru
 - 🎓 **Education:** B.Tech from **IIT (ISM) Dhanbad** (2018-2022)
-- 🌐 **Portfolio:** [portfolio-three-gilt-nasms1nt6q.vercel.app](https://portfolio-three-gilt-nasms1nt6q.vercel.app)
+- 🌐 **Portfolio:** [rushikeshwagh.vercel.app](https://rushikeshwagh.vercel.app)
 - 💡 **Approach:** I don't just build charts — I move metrics
 
 ---
@@ -84,4 +84,4 @@ I'm a **Product Analyst** with **4+ years** of full-time experience in the analy
 
 *"The goal is to turn data into information, and information into insight."* — Carly Fiorina
 
-**Let's connect!** &nbsp; [LinkedIn](https://www.linkedin.com/in/rushikesh-wagh-08031999) · [Portfolio](https://portfolio-three-gilt-nasms1nt6q.vercel.app) · [GitHub](https://github.com/RUSHIKESHWAGH99) · [Email](mailto:rushikeshwagh43@gmail.com)
+**Let's connect!** &nbsp; [LinkedIn](https://www.linkedin.com/in/rushikesh-wagh-08031999) · [Portfolio](https://rushikeshwagh.vercel.app) · [GitHub](https://github.com/RUSHIKESHWAGH99) · [Email](mailto:rushikeshwagh43@gmail.com)
