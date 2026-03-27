@@ -1,5 +1,7 @@
 # Hi there, I'm Rushikesh Wagh! 👋
 
+**Rushikesh Wagh** — Product Analyst & data portfolio (Bengaluru, India). **Portfolio site:** [portfolio-three-gilt-nasms1nt6q.vercel.app](https://portfolio-three-gilt-nasms1nt6q.vercel.app) · **GitHub:** [RUSHIKESHWAGH99](https://github.com/RUSHIKESHWAGH99) · **LinkedIn:** [rushikesh-wagh-08031999](https://www.linkedin.com/in/rushikesh-wagh-08031999)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=6C63FF&vCenter=true&width=600&lines=Product+Analyst+%40+ALLEN+Digital;4%2B+Years+in+Analytics+%26+Product+Strategy;IIT+(ISM)+Dhanbad+%E2%80%A2+Bengaluru)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikesh-wagh-08031999)
