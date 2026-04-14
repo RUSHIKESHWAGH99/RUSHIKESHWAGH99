@@ -78,7 +78,17 @@ I'm a **Product Analyst** with **4+ years** of full-time experience in the analy
 
 ### 📈 GitHub Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RUSHIKESHWAGH99&theme=tokyonight&hide_border=true)
+<p align="center">
+  <a href="https://github.com/RUSHIKESHWAGH99">
+    <img
+      src="https://streak-stats.demolab.com/?user=RUSHIKESHWAGH99&theme=tokyonight&hide_border=true&card_width=500"
+      alt="GitHub streak and contribution stats for Rushikesh Wagh"
+      width="100%"
+    />
+  </a>
+</p>
+
+<sub>Uses the current <a href="https://streak-stats.demolab.com/">Demolab</a> host for <a href="https://github.com/DenverCoder1/github-readme-streak-stats">github-readme-streak-stats</a> (the old Heroku URL often broke or showed stale numbers). Stats follow <strong>public</strong> contributions only.</sub>
 
 ---
 
